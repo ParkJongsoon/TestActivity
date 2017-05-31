@@ -11,7 +11,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         button5.setOnClickListener {
             val intent = Intent(this, MenuActivity::class.java)
             startActivity(intent)
