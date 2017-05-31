@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestActivity</string>
+    <string name="page_main">Main PAGE</string>
+    <string name="page_second">Secoct PAGE</string>
+    <string name="go">go %1$s</string>
+</resources>
